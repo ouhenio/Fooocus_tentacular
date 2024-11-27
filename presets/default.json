@@ -5,7 +5,7 @@
     "default_loras": [
         [
             true,
-            "base_lora.safetensors",
+            "None",
             0.1
         ],
         [
